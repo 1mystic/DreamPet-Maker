@@ -35,7 +35,7 @@ npm install
 Pull requests welcome!
 
 ## 📄 License
-MIT
+None
 
 ## 💌 Credits
-Built for the Vibe Coding Lovable Global Challenge 2025.
+Built for the Hack the Vibe Challenge 2025.
